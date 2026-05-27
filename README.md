@@ -28,3 +28,9 @@ A beginner-friendly Linux shell scripting project that automates folder backups 
 ```bash
 chmod +x backup.sh
 ./backup.sh
+```
+## Sample Output
+
+=== Backup started: 2026-05-27-18-45-20 ===
+Backing up: /home/user/Documents
+✅ Backup Complete!
